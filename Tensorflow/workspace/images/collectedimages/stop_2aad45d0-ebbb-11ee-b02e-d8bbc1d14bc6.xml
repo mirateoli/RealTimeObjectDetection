@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop_2aad45d0-ebbb-11ee-b02e-d8bbc1d14bc6.jpg</filename>
+	<path>C:\Users\MDO-Disco\Documents\GitHub\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\stop\stop_2aad45d0-ebbb-11ee-b02e-d8bbc1d14bc6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>160</ymin>
+			<xmax>348</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
