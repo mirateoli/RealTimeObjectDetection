@@ -1,8 +1,8 @@
 item { 
-	name:'stop'
+	name:'go'
 	id:1
 }
 item { 
-	name:'go'
+	name:'stop'
 	id:2
 }
